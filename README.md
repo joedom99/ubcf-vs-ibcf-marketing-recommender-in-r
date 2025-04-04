@@ -22,17 +22,19 @@ This R script:
 ---
 
 ## 📁 File Structure
-.
-├── customer_marketing_preferences.csv      # Input data
-├── ubcf-vs-ibcf-recommender-system.R       # Full R script
-├── ubcf_recommendation_counts_bar_chart.png
-├── ibcf_recommendation_counts_bar_chart.png
-├── ubcf_recommendation_heatmap.png
-├── ibcf_recommendation_heatmap.png
-├── ubcf_usage_vs_recommendation_scatter.png
-├── ibcf_usage_vs_recommendation_scatter.png
-├── ubcf_vs_ibcf_recommendations.png
-
+📁 ubcf-vs-ibcf-marketing-recommender-in-r/
+├── README.md                 # Project overview and instructions
+├── LICENSE                   # MIT License file
+├── customer_marketing_preferences.csv  # Sample input dataset
+├── ubcf-vs-ibcf-recommender-system.R   # Main R script (cleaned and commented)
+├── 📁 plots/                  # Directory to store all generated plots
+│   ├── ubcf_recommendation_counts_bar_chart.png
+│   ├── ibcf_recommendation_counts_bar_chart.png
+│   ├── ubcf_recommendation_heatmap.png
+│   ├── ibcf_recommendation_heatmap.png
+│   ├── ubcf_usage_vs_recommendation_scatter.png
+│   ├── ibcf_usage_vs_recommendation_scatter.png
+│   └── ubcf_vs_ibcf_recommendations.png
 ---
 
 ## 🧪 How to Use
