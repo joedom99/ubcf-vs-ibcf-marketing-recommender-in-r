@@ -3,7 +3,7 @@
 A practical, side-by-side implementation of **User-Based Collaborative Filtering (UBCF)** and **Item-Based Collaborative Filtering (IBCF)** using R and `recommenderlab`. This project demonstrates how each algorithm generates service recommendations from binary usage data—perfect for marketers, educators, and data science learners.
 
 🔍 Built as a companion to our blog article:  
-👉 [Understanding UBCF: A Practical Guide to User-Based Collaborative Filtering in R](https://blog.marketingdatascience.ai/) *(Link to come)*
+👉 [UBCF vs. IBCF: Comparing Marketing Recommendation System Algorithms in R](https://blog.marketingdatascience.ai/ubcf-vs-ibcf-comparing-marketing-recommendation-system-algorithms-in-r-38ff36bf05d3)
 
 ---
 
